@@ -1,21 +1,21 @@
 {
       "max_count_ads": "13",
 
-      "our_ads1_activation":"False",
-    "our_ads1_image_url":"https://raw.githubusercontent.com/medidjuo/B-SANTA/main/111.jpg",
-    "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.gta.mafia.gangster.cityStreetSim",
+      "our_ads1_activation":"true",
+    "our_ads1_image_url":"https://raw.githubusercontent.com/medidjuo/BC11-Elza/main/111.jpg",
+    "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.santagranny.granny.grannyhorror",
 
-    "our_ads2_activation":"False",
-    "our_ads2_image_url":"https://raw.githubusercontent.com/medidjuo/B-SANTA/main/222.jpg",
-    "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.grand.crime.gangster.openworld.city.crime.simulator",
+    "our_ads2_activation":"true",
+    "our_ads2_image_url":"https://raw.githubusercontent.com/medidjuo/BC11-Elza/main/222.jpg",
+    "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.gta.mafia.gangster.cityStreetSim",
 
-    "our_ads3_activation":"False",
-    "our_ads3_image_url":"https://raw.githubusercontent.com/medidjuo/B-SANTA/main/333.jpg",
+    "our_ads3_activation":"true",
+    "our_ads3_image_url":"https://raw.githubusercontent.com/medidjuo/BC11-Elza/main/333.jpg",
     "our_ads3_link_url":"https://play.google.com/store/apps/details?id=gangster.mafia.crime.car.gta",
 
-    "our_ads_inter_activation":"False",
-    "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/B-SANTA/main/444.jpg",
-    "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.elsaPrincess.frozenScary",
+    "our_ads_inter_activation":"true",
+    "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/BC11-Elza/main/444.jpg",
+    "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.santagranny.granny.grannyhorror",
 
   "admob_app_id": "",
   "admob_banner": "",
