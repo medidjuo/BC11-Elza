@@ -17,10 +17,10 @@
     "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/BC11-Elza/main/444.jpg",
     "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.santagranny.granny.grannyhorror",
 
-  "admob_app_id": "",
-  "admob_banner": "",
-  "admob_interstitial": "",
-  "admob_rewarded_video": "",
+  "admob_app_id": "ca-app-pub-5688110051583408~2592971728",
+  "admob_banner": "ca-app-pub-5688110051583408/7872863345",
+  "admob_interstitial": "ca-app-pub-5688110051583408/8032645446",
+  "admob_rewarded_video": "ca-app-pub-5688110051583408/2620536663",
 
   "unity_app_id": "5517048",
   "unity_banner": "Banner_Android",
