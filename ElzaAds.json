@@ -39,7 +39,7 @@
 "admob_percentage": "30",
 
 "applovin_activation": "false",
-"unity_activation": "true",
+"unity_activation": "false",
 "admob_activation": "true",
 
 "applovin_percentage": "0",
