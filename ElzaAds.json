@@ -24,7 +24,6 @@
   "unity_app_id": "27736396d",
   "unity_banner": "Banner_Android",
   "unity_interstitial": "3mygqgbwjfghr8hl",
-  "unity_rewarded_video": "9s00y46dh8lra6f3"
 
   "appLovin_app_id": "0000000000000000000000",
   "appLovin_banner": "00000000000",
@@ -41,11 +40,11 @@
 
 "applovin_activation": "false",
 "unity_activation": "true",
-"admob_activation": "true",
+"admob_activation": "false",
 
 "applovin_percentage": "0",
-"unity_percentage": "50",
-"admob_percentage_non_mediation": "50"
+"unity_percentage": "100",
+"admob_percentage_non_mediation": "0"
 
   
 }
