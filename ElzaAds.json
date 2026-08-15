@@ -22,10 +22,10 @@
   "admob_interstitial": "ca-app-pub-5688110051583408/8032645446",
   "admob_rewarded_video": "000000000",
 
-  "unity_app_id": "27736396d",
+  "unity_app_id": "5517048",
   "unity_banner": "Banner_Android",
-  "unity_interstitial": "3mygqgbwjfghr8hl",
-  "unity_rewarded_video": "9s00y46dh8lra6f3",
+  "unity_interstitial": "Interstitial_Android",
+  "unity_rewarded_video": "Rewarded_Android",
 
   "appLovin_app_id": "0000000000000000000000",
   "appLovin_banner": "00000000000",
